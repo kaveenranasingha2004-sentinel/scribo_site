@@ -1,0 +1,33 @@
+baseURL = "https://kaveenranasingha2004-sentinel.github.io/scribo_site/"
+languageCode = "en"
+defaultContentLanguage = "si"
+theme = "terminal"
+title = "scribo ergo sum"
+
+[[menu.main]]
+  name = "about"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "posts"
+  url = "/posts/"
+  weight = 2
+
+[languages]
+  [languages.si]
+    languageName = "සිංහල"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  fullWidthTheme = false
+  centerTheme = true
+
+[params.logo]
+  logoText = "scribo ergo sum"
+  logoHomeLink = "/"
