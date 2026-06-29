@@ -8,6 +8,12 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# IMPORTANT: this workflow uses the GitHub Actions deployment API
+# (upload-pages-artifact + deploy-pages). The GitHub Pages source in
+# Settings -> Pages is set to "GitHub Actions". Do NOT switch the deploy
+# step to peaceiris/actions-gh-pages -- that pushes to the gh-pages branch,
+# which GitHub Pages silently ignores in this mode, and the live site
+# will freeze at whatever the last Actions deployment was.
 permissions:
   contents: read
   pages: write
