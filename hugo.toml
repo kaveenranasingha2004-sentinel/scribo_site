@@ -1,6 +1,6 @@
 baseURL = "https://kaveenranasingha2004-sentinel.github.io/scribo_site/"
 languageCode = "en"
-defaultContentLanguage = "si"
+defaultContentLanguage = "en"
 theme = "terminal"
 title = "scribo ergo sum"
 
