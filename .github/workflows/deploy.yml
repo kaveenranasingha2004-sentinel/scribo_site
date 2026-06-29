@@ -27,6 +27,7 @@ jobs:
 
       - name: Build
         run: hugo --minify
+          ls public/posts/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
