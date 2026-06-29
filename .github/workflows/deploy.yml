@@ -27,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://kaveenranasingha2004-sentinel.github.io/scribo_site/"
+        run: hugo --minify --buildFuture --baseURL "https://kaveenranasingha2004-sentinel.github.io/scribo_site/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
