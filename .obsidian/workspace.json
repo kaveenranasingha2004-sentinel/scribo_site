@@ -11,14 +11,10 @@
             "id": "f8a92b6aa23997b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2ndpost/index.si.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index.si"
+              "title": "New tab"
             }
           }
         ]
@@ -184,7 +180,11 @@
   "active": "f8a92b6aa23997b1",
   "lastOpenFiles": [
     "content/posts/your-post-title/index.si.md",
+    "content/posts/your-post-title/index.md",
     "content/posts/2ndpost/index.si.md",
+    "content/posts/2ndpost/index.md",
+    "public/posts/2ndpost/index.html",
+    "public/posts/2ndpost",
     "content/posts/2ndpost/2ndpost.si.md",
     "content/posts/2ndpost"
   ]

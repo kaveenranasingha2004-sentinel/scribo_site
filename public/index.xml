@@ -5,9 +5,16 @@
     <link>http://localhost:1313/scribo_site/</link>
     <description>Recent content on scribo ergo sum</description>
     <generator>Hugo</generator>
-    <language>si</language>
-    <lastBuildDate>Sun, 28 Jun 2026 19:50:08 +0530</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/scribo_site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>නීතිය</title>
+      <link>http://localhost:1313/scribo_site/posts/2ndpost/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scribo_site/posts/2ndpost/</guid>
+      <description>පවුල් නීති ප්‍රශ්න පත්‍රය ලියුවේ ඊයේ ය. එය ලියන අතරත් ඊට සූදානම් වන අතරත් සිතට නැඟියේ එක ම ප්‍රශ්නය කි.&#xA;මේ සියලු නීති උපත ලබා ඇත්තේ මිනිසාට තම සිතුවිලි මත විශ්වාසය තැබිය නො හැකි නිසා නොවේ ද? මිනිසෙකුට නිති නම් වූ බාහිර පාලක බලවේගයක් අවැසි තම සිතීමේ හැකියාවේ අනිසි බලපෑම් පාලනය කර ගත නොහැකි නිසා නොවේ ද?&#xA;කියන තරම් ප්‍රේමය උත්තරීතර නම් පවුල් නීතියක් කුමට ද? මිනිසා සවිඥානික ව හරි වැරැද්ද තෝරා ගන්නේ නම් අපරාධ නීතියක් කුමට ද?</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/scribo_site/about/</link>

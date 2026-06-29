@@ -5,7 +5,7 @@
     <link>http://localhost:1313/scribo_site/categories/</link>
     <description>Recent content in Categories on scribo ergo sum</description>
     <generator>Hugo</generator>
-    <language>si</language>
+    <language>en</language>
     <atom:link href="http://localhost:1313/scribo_site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

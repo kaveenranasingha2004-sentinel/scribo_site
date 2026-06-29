@@ -14,14 +14,6 @@ title = "scribo ergo sum"
   url = "/posts/"
   weight = 2
 
-[languages]
-  [languages.si]
-    languageName = "සිංහල"
-    weight = 1
-  [languages.en]
-    languageName = "English"
-    weight = 2
-
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
