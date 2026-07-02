@@ -14,6 +14,3 @@ draft = false
 
 https://open.spotify.com/track/3Md9o9hPOE0u0l4eYzDk1B?si=ebcdffcc518843f8
 
-[[නීතිය]] [[ගුහාව]]
-
-#literature #songs #problems #politics #answers 
