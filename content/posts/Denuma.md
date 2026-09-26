@@ -11,7 +11,7 @@ draft = false
 
 ලෝකය ගැන ස්ථිර සත්‍යයක් සොයනු වස් ඇරඹ් විද්‍යාව පවා දැන් ටික ටික දිවේන්නේ සම්භාවිතාව ප්‍රමුඛ කර ගත් අනියතිවාදයක් කරා නො වේ ද?
 
-මා ගුහාව සටහනේ දී කීවාක් මෙන් දැනුම, ගුහාවෙන් එළියට යාමක් ද? එසේ නම් දැනුම වැඩි වන තරමට දැනෙන අනියත බව වැඩි වන්නේ අප ගුහාව තුළ සෙවණැලි ස්ථිර බවට පූර්‍ව නිගමනය කර ඇති නිසා ද?
+මා [ගුහාව](https://kaveenranasingha2004-sentinel.github.io/scribo_site/posts/guhawa/) සටහනේ දී කීවාක් මෙන් දැනුම, ගුහාවෙන් එළියට යාමක් ද? එසේ නම් දැනුම වැඩි වන තරමට දැනෙන අනියත බව වැඩි වන්නේ අප ගුහාව තුළ සෙවණැලි ස්ථිර බවට පූර්‍ව නිගමනය කර ඇති නිසා ද?
 
 මට කියන්න හිතේ යම් දෙයක් තියෙනවා නම් මේ තැපැල් පෙට්ටියට ඔබා ගෙන යන්න.
 <liyannagethapalpetttiya@gmail.com>
@@ -24,7 +24,7 @@ Is it not because this truth about knowing and not-knowing began to make itself 
 
 And is not even science — which set out in search of some fixed truth about the world — now drifting, little by little, toward an indeterminism that gives probability the throne?
 
-As I said in my note on the cave: is knowledge, then, a walking-out from the cave? And if so, does uncertainty grow precisely in proportion to knowledge, because we had already — before ever leaving — concluded the shadows within the cave to be fixed?
+As I said in my note on the [cave](https://kaveenranasingha2004-sentinel.github.io/scribo_site/posts/guhawa/): is knowledge, then, a walking-out from the cave? And if so, does uncertainty grow precisely in proportion to knowledge, because we had already — before ever leaving — concluded the shadows within the cave to be fixed?
 
 _If there's something you feel like telling me, drop it in this mailbox._  
 [liyannagethapalpetttiya@gmail.com](mailto:liyannagethapalpetttiya@gmail.com)
